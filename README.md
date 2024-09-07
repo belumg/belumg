@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Holis, esta es una prueba para ver si configuré bien Git. Lo modificaré en el próximo commit.
+
 <!--
 **belumg/belumg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
