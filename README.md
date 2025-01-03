@@ -17,14 +17,12 @@ I'm also an undergraduate teaching assistant in Algorithms and Data Structures c
   
 </p>
 
-<details>
-  <summary> <h3>⚡Fun facts </h3> </summary>
+<h3>⚡Fun facts </h3> </summary>
     <p> 
       - I'm Italian-Argentinian. 🇮🇹​ 🇦🇷​ <br>
       - I can tell you all the elements of the Periodic Table by heart. <br>
       - I have met two Nobel Prizes and 2023 NASA's Administrator. <br>
     </p>
-</details>
 
 ### 📫 Contact me
 <p align="left">
