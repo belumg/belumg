@@ -6,7 +6,7 @@ I'm also an undergraduate teaching assistant in Algorithms and Data Structures c
 <img src="https://github.com/belumg/belumg/blob/main/sheldon.gif" alt="sheldon" width="400" height="223" />
 </p>
 
-### 🌱 Tech stack
+### Tech skills
 <p align="left">
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
@@ -14,15 +14,16 @@ I'm also an undergraduate teaching assistant in Algorithms and Data Structures c
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/r-project.png" alt="r-project"/>
-  
 </p>
 
-<h3>⚡Fun facts </h3> </summary>
+<details>
+<summary> <h3>⚡Fun facts </h3> </summary>
     <p> 
       - I'm Italian-Argentinian. 🇮🇹​ 🇦🇷​ <br>
       - I can tell you all the elements of the Periodic Table by heart. <br>
       - I have met two Nobel Prizes and 2023 NASA's Administrator. <br>
     </p>
+</details>
 
 ### 📫 Contact me
 <p align="left">
