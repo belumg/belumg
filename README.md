@@ -16,7 +16,7 @@ I'm also an undergraduate teaching assistant in Algorithms and Data Structures c
 </details>
 
 ### 📫 Contact me
-<p align="left">
+<p align="center">
   <a href="https://github.com/belumg/"><img src="https://img.shields.io/badge/-belumg-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
   <a href="mailto:mguatto@fi.uba.ar"><img src="https://img.shields.io/badge/-mguatto@fi.uba.ar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
